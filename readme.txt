@@ -1,1 +1,1 @@
-This is a demo project of GitHub Actions for AIST2601 Workshop 6, created by Moe Myint Myat.
+This is a demo project of GitHub Actions for AIST2601 Workshop, created by Moe Myint Myat.
